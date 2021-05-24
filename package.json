@@ -1,0 +1,17 @@
+{
+  "name": "mattmowris-personal-website",
+  "version": "1.0.0",
+  "description": "Source for personal website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Mowris",
+  "license": "MIT",
+  "engines": {
+    "node": "15.8"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
